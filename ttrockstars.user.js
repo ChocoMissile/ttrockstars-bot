@@ -94,7 +94,7 @@
             running = false;
             var gameOver = document.getElementsByClassName("stamp center mat-white-color")[0];
             if (gameOver != undefined) {
-                gameOver.innerHTML = "game won 😉"
+                gameOver.innerHTML = "Game Over!!"
             }
         }
 
